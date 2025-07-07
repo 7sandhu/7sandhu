@@ -3,7 +3,7 @@
 ---
 
 ## 🎓 About Me
-- B.Tech CSE student at IIT Mandi (Class of 2027)  
+- B.Tech student at IIT Mandi (Class of 2027)  
 - Full Stack Web Developer & Flutter Enthusiast  
 - Strong programmer in **C++**, **JavaScript**, and **Python**  
 - Passionate about **DSA** and **Competitive Programming** with 700+ problems solved  
