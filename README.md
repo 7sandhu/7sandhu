@@ -31,8 +31,7 @@
 - CodeChef max rating: **1738**  
 - LeetCode rating: **1678**  
 - Solved **700+ DSA problems** across all platforms  
-- Ranked **Top 25 / ~220** in IIT Mandi's CnP DSA contest  
-- Completed Full Stack Web Development certification
+
 
 ---
 
